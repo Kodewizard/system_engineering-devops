@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Looping 1 - 10
 i=1
 until [ "$i" -gt 10 ]
